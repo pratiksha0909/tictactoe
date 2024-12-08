@@ -1,6 +1,5 @@
 function Restart() {
     window.location = "index.html"
-    alert("its draw");
 }
 
 let player = "O";
